@@ -3,7 +3,7 @@ SELECT student_name,student_email,completion_percentage FROM enrollments
 WHERE course_title = 'Intro to Python';
 
 ---CONSULTA 2
-SELECT * fROM enrollments
+SELECT * FROM enrollments
 WHERE completion_percentage < 10;
 
 --CONSULTA 3
