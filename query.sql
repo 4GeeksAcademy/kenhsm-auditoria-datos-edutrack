@@ -86,5 +86,6 @@ FROM enrollments
 GROUP BY category
 ORDER BY total_revenue DESC;
 
+--FIN
 
 
